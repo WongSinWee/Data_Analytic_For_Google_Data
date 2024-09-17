@@ -1,4 +1,4 @@
-# Data_Analytic_For_Google_Data
+# Data_Analytic_with_Machine Learning_For_Google_Data
 This is a learning for data analytic using the public data from Google.
 
 In this assignment, we acted as a data analytic team to create a idea for the European Travel Comminsion, how our data analytic model able to help the commision to:
